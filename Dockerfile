@@ -2,7 +2,7 @@ FROM php:7.0-apache
 
 MAINTAINER Philipp Schmitt <philipp@schmitt.co>
 
-ENV UNMARK_VERSION=1.7.1.2
+ENV UNMARK_VERSION=1.9.2
 
 WORKDIR /var/www/html
 
